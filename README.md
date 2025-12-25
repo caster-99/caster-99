@@ -4,7 +4,7 @@
 
 
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1unyt9u4Db3Sb2QHzO0Zq18uRZdzqA2UJ/view?usp=drive_link" target="_blank" >Here's my CV</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1Atz6qanmgMkLhbGOXcN-QwOFDNVZe7mr/view?usp=sharing" target="_blank" >Here's my CV</a>
 
 
 <h3 align="left">Languages and Tools:</h3>
